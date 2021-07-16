@@ -15,7 +15,7 @@ $states ['CO' ] = array (
 	//'ARU' => 'Arauca',
 	//'ATL' => 'Atlántico',
 	'Bogotá D.C.' => 'Bogotá D.C.',
-	//'BOL' => 'Bolívar',
+	'BOL' => 'Bolívar',
 	//'BOY' => 'Boyacá',
 	//'CAL' => 'Caldas',
 	//'CAQ' => 'Caquetá',
@@ -40,7 +40,7 @@ $states ['CO' ] = array (
 	'SAN' => 'Santander',
 	//'SUC' => 'Sucre',
 	//'TOL' => 'Tolima',
-	//'VAC' => 'Valle del Cauca',
+	'VAC' => 'Valle del Cauca',
 	//'VAU' => 'Vaupés',
 	//'VIC' => 'Vichada'
 	);
